@@ -1,11 +1,11 @@
-package com.param.dictionary.manage;
+package com.pram.dictionary.manage;
 
 import java.util.HashSet;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.param.dictionary.bean.Word;
+import com.pram.dictionary.bean.Word;
 
 /**
  * 

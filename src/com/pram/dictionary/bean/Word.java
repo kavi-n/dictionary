@@ -1,4 +1,4 @@
-package com.param.dictionary.bean;
+package com.pram.dictionary.bean;
 
 import java.util.Set;
 

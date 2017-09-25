@@ -1,4 +1,4 @@
-package com.param.dictionary.manage;
+package com.pram.dictionary.manage;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Set;
 
-import com.param.dictionary.bean.Word;
+import com.pram.dictionary.bean.Word;
 import com.pram.dictionary.imanage.IBuildDictionary;
 
 

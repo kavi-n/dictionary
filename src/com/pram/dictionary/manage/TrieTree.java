@@ -1,10 +1,10 @@
-package com.param.dictionary.manage;
+package com.pram.dictionary.manage;
 
 import java.util.HashSet;
 import java.util.Set;
 
-import com.param.dictionary.bean.TrieNode;
-import com.param.dictionary.bean.Word;
+import com.pram.dictionary.bean.TrieNode;
+import com.pram.dictionary.bean.Word;
 import com.pram.dictionary.imanage.ITree;
 
 /**
