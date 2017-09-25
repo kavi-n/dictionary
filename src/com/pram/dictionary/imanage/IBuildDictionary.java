@@ -3,7 +3,7 @@ package com.pram.dictionary.imanage;
 import java.io.FileNotFoundException;
 import java.util.Set;
 
-import com.param.dictionary.bean.Word;
+import com.pram.dictionary.bean.Word;
 
 /**
  * 

@@ -1,6 +1,6 @@
 package com.pram.dictionary.imanage;
 
-import com.param.dictionary.bean.Word;
+import com.pram.dictionary.bean.Word;
 
 /**
  *

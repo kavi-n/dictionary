@@ -19,10 +19,10 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.SwingUtilities;
 
-import com.param.dictionary.bean.Word;
-import com.param.dictionary.manage.DictionaryManagement;
-import com.param.dictionary.manage.TrieTree;
+import com.pram.dictionary.bean.Word;
 import com.pram.dictionary.imanage.ITree;
+import com.pram.dictionary.manage.DictionaryManagement;
+import com.pram.dictionary.manage.TrieTree;
 
 /**
  * 
